@@ -6,7 +6,7 @@ url : https://pes23.com/
 ## 목차
 1. [서비스 소개](#-서비스-소개)
 2. [진행 기간](#-진행-기간)
-3. [사용 기술](#-사용-기술)
+3. [🛠️ 사용 기술](#-사용-기술)
 4. [사용 방법](#-사용-방법)
 5. [제공 기능](#-제공-기능)
 6. [팀 구성원](#-팀-구성원)
@@ -22,11 +22,11 @@ url : https://pes23.com/
   - 랭킹 기능을 통해 이용자들의 참여도 높임
 </br></br></br>
 
-### 🗓️  진행 기간
+### 🗓️ 진행 기간
   2023.08 ~ (진행 중)
 </br></br></br>
 
-### 🛠️  사용 기술
+### 🛠️ 사용 기술
 <div style="margin: 0 auto; text-align: center;" align= "left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
