@@ -1,7 +1,7 @@
 # PES
 </br>
 url : https://pes23.com/
-</br>
+</br></br>
 
 ### 🚀 서비스 소개
   - PowerSupply 동아리 내 신입생 SW교육 시스템
@@ -9,6 +9,7 @@ url : https://pes23.com/
   - 기존의 불편한 과제 채점 방식을 개선한 자체적인 서비스
   - 일반적인 코딩테스트 서비스와 달리, 추가적인 질문을 통해 사용자의 이해도를 높임
   - 신입생의 코드와 질문답변을 종합하여 재학생들은 pass/fail와 comment 제공
+  - 랭킹 기능을 통해 이용자들의 참여도 높임
   - 관리자모드를 통해 신입생 및 문제 정보들을 간편하게 수정
 </br></br>
 
@@ -17,10 +18,78 @@ url : https://pes23.com/
 - 로그인, 회원가입
 - 코딩문제 제공 및 채점
 - 질문테스트 및 pass/fail 부여
+- 다른 이용자들의 풀이 제공
 - 마이페이지(내가 푼 문제/내가 준 feedback)
 - 랭킹 기능
 - 공지사항
 - 관리자기능
+</br></br>
+
+
+### 🧑‍💻 사용 방법
+- HOME
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/782e70dc-144e-4dd8-a341-eab4ee48c507"  width="840" height="400"/>
+</br></br>
+
+- 로그인 및 회원가입
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/e8a630b9-d575-44b1-b9ae-e0a38ce82c0b"  width="840" height="400"/>
+</br></br>
+
+- 문제 리스트 페이지
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/e3a96fce-423d-4368-8edb-56631c582d91"  width="840" height="400"/>
+
+상단에 카카오 에드핏 광고를 통해 수익 창출
+문제 리스트와 랭킹 제공
+</br></br>
+
+- 문제 풀이 페이지
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/5eb64662-ddc3-455b-bc68-0685519fa555"  width="840" height="400"/>
+
+왼쪽의 문제와 sample input, sample output을 보고, 적절한 코드를 오른쪽의 코드 에디터에 입력
+</br></br>
+
+- 질문 테스트
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/1d4004ba-b23b-49e1-b289-b5803dc5973f"  width="840" height="400"/>
+
+입력코드가 정답일때(test case에 맞고 컴파일러 오류가 나지 않을 시) 질문 테스트 페이지로 넘어감 
+질문테스트에 답변을 하면, 문제풀이 과정이 끝나게 됨
+</br></br>
+
+- pass/fail 부여 (재학생 기능)
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/7d90a8c7-dc76-428c-9611-c23c1c3727e3"  width="840" height="400"/>
+  
+신입생의 풀이 밑부분에 comment와 pass/fail을 결정하는 UI가 있음
+2명의 재학생이 신입생의 풀이에 comment를 완료할 시, 풀이 결과가 나오게 됨
+</br></br>
+
+- 문제 풀이 결과
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/e1f1afa2-4547-4b60-924b-a33fc96bc584"  width="840" height="400"/>
+
+(결과가 pass일 때)
+
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/58c98f01-2593-468f-b4d8-b1db7e443705"  width="840" height="400"/>
+
+
+(결과가 fail일 때)
+
+결과에 따라 바탕색을 변경함으로서 직관적인 UI를 제공함
+</br></br>
+
+- 다른 이용자들의 풀이보기
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/d0b62510-9007-43e3-8ebd-d32cd8af5d5c"  width="840" height="400"/>
+  
+문제풀이를 완료한 신입생 혹은 관리자, 재학생은 다른 학생의 풀이와 결과를 열람할 수 있음
+</br></br>
+
+- 마이페이지(내가 푼 문제/내가 준 feedback)
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/4bdbff2b-0c34-473a-b4e7-5cf67850caa5"  width="280" height="220"/>
+
+우측상단의 Navbar 버튼을 통해 이동가능
+</br>
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/812979df-0c8e-4d47-b26a-d8883ca71abd"  width="840" height="400"/>
+
+본인의 정보와 푼 문제, 남긴 feedback정보 열람 가능
+feedback이나 문제를 클릭하면 해당 페이지로 이동
 </br></br>
 
 
