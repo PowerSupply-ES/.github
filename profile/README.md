@@ -16,13 +16,19 @@ url : https://pes23.com/
 
 ### 🖥️ 제공 기능
 - 로그인, 회원가입
+  - `jwt`토큰 사용
 - 코딩문제 제공 및 채점
+    `react-ace` 라이브러리 사용하여 코드에디터 구현
 - 질문테스트 및 pass/fail 부여
 - 다른 이용자들의 풀이 제공
-- 마이페이지(내가 푼 문제/내가 준 feedback)
+- 마이페이지
+  - 내가 푼 문제 / 내가 남긴 feedback 제공
 - 랭킹 기능
+  - 신입생: 점수 내림차순
+  - 재학생: 피드백 양 내림차순
 - 공지사항
-- 관리자기능
+  - 기능 업데이트 혹은 동아리 내 공지사항 등록
+  - `관리자` 권한만 등록 가능
 </br></br>
 
 
@@ -82,7 +88,7 @@ url : https://pes23.com/
 </br></br>
 
 - 마이페이지(내가 푼 문제/내가 준 feedback)
-<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/4bdbff2b-0c34-473a-b4e7-5cf67850caa5"  width="280" height="220"/>
+<img src="https://github.com/PowerSupply-ES/.github/assets/107929413/4bdbff2b-0c34-473a-b4e7-5cf67850caa5"  width="260" height="220"/>
 
 우측상단의 Navbar 버튼을 통해 이동가능
 </br>
