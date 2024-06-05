@@ -5,10 +5,10 @@ url : https://pes23.com/
 
 ## 목차
 1. [서비스 소개](#-서비스-소개)
-2. [제공 기능](#-제공-기능)
-3. [사용 방법](#-사용-방법)
-4. [사용 기술](#-사용-기술)
-5. [진행 기간](#-진행-기간)
+2. [진행 기간](#-진행-기간)
+3. [사용 기술](#-사용-기술)
+4. [사용 방법](#-사용-방법)
+5. [제공 기능](#-제공-기능)
 6. [팀 구성원](#-팀-구성원)
 </br></br></br>
 
@@ -20,7 +20,33 @@ url : https://pes23.com/
   - `신입생`의 코드와 질문답변을 종합하여 `재학생`들은 pass/fail와 comment 제공
   - `신입생`은 pass의 갯수와 문제의 점수를 종합하여 점수 획득
   - 랭킹 기능을 통해 이용자들의 참여도 높임
-</br></br>
+</br></br></br>
+
+### 🗓️ 진행 기간
+2023.08 ~ (진행 중)
+</br></br></br>
+
+### 🛠️ 사용 기술
+<div style="margin: 0 auto; text-align: center;" align= "left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</div>
+</br></br></br>
 
 
 ### 🖥️ 제공 기능
@@ -38,7 +64,7 @@ url : https://pes23.com/
 - 공지사항
   - 기능 업데이트 혹은 동아리 내 공지사항 등록
   - `관리자` 권한만 등록 가능
-</br></br>
+</br></br></br>
 
 
 ### 🧑‍💻 사용 방법
@@ -105,35 +131,7 @@ url : https://pes23.com/
 
 본인의 정보와 푼 문제, 남긴 feedback정보 열람 가능</br>
 feedback이나 문제를 클릭하면 해당 페이지로 이동</br>
-</br></br>
-
-
-### 🛠️ 사용 기술
-<div style="margin: 0 auto; text-align: center;" align= "left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-</div>
-</br></br>
-
-
-### 🗓️ 진행 기간
-2023.08 ~ (진행 중)
-</br></br>
+</br></br></br>
 
 
 ### 🧑‍🚀 팀 구성원
@@ -141,5 +139,4 @@ feedback이나 문제를 클릭하면 해당 페이지로 이동</br>
 - 박경민(P&D) : https://github.com/123qpq
 - 변민정(FE + BE) : https://github.com/byeon22
 - 최성임(FE) : https://github.com/immms
-
 
