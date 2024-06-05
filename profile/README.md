@@ -1,6 +1,6 @@
 # PES
 </br>
-url : https://pes23.com/
+pes 웹 url : https://pes23.com/
 </br></br></br>
 
 ## 목차
