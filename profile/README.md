@@ -71,12 +71,12 @@ url : https://pes23.com/
 - 문제 풀이 결과
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/e1f1afa2-4547-4b60-924b-a33fc96bc584"  width="840" height="400"/>
 
-(결과가 pass일 때)
+`결과가 pass일 때`
 
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/58c98f01-2593-468f-b4d8-b1db7e443705"  width="840" height="400"/>
 
 
-(결과가 fail일 때)
+`결과가 fail일 때`
 
 결과에 따라 바탕색을 변경함으로서 직관적인 UI를 제공함
 </br></br>
