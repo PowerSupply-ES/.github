@@ -4,13 +4,13 @@ url : https://pes23.com/
 </br></br>
 
 ### 🚀 서비스 소개
-  - PowerSupply 동아리 내 신입생 SW교육 시스템
+  - PowerSupply 동아리 내 신입생 `SW교육 시스템`
   - 코딩테스트 채점 웹 프로그램
   - 기존의 불편한 과제 채점 방식을 개선한 자체적인 서비스
-  - 일반적인 코딩테스트 서비스와 달리, 추가적인 질문을 통해 사용자의 이해도를 높임
-  - 신입생의 코드와 질문답변을 종합하여 재학생들은 pass/fail와 comment 제공
+  - 일반적인 코딩테스트 서비스와 달리, 추가적인 `질문테스트`를 시행함으로서 사용자의 이해도를 높임
+  - `신입생`의 코드와 질문답변을 종합하여 `재학생`들은 pass/fail와 comment 제공
+  - `신입생`은 pass의 갯수와 문제의 점수를 종합하여 점수 획득
   - 랭킹 기능을 통해 이용자들의 참여도 높임
-  - 관리자모드를 통해 신입생 및 문제 정보들을 간편하게 수정
 </br></br>
 
 
@@ -18,7 +18,7 @@ url : https://pes23.com/
 - 로그인, 회원가입
   - `jwt`토큰 사용
 - 코딩문제 제공 및 채점
-    `react-ace` 라이브러리 사용하여 코드에디터 구현
+  - `react-ace` 라이브러리 사용하여 코드에디터 구현
 - 질문테스트 및 pass/fail 부여
 - 다른 이용자들의 풀이 제공
 - 마이페이지
@@ -44,27 +44,27 @@ url : https://pes23.com/
 - 문제 리스트 페이지
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/e3a96fce-423d-4368-8edb-56631c582d91"  width="840" height="400"/>
 
-상단에 카카오 에드핏 광고를 통해 수익 창출
+상단에 카카오 에드핏 광고를 통해 수익 창출</br>
 문제 리스트와 랭킹 제공
 </br></br>
 
 - 문제 풀이 페이지
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/5eb64662-ddc3-455b-bc68-0685519fa555"  width="840" height="400"/>
 
-왼쪽의 문제와 sample input, sample output을 보고, 적절한 코드를 오른쪽의 코드 에디터에 입력
+왼쪽의 문제와 sample input, sample output을 보고, 적절한 코드를 오른쪽의 코드 에디터에 입력</br>
 </br></br>
 
 - 질문 테스트
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/1d4004ba-b23b-49e1-b289-b5803dc5973f"  width="840" height="400"/>
 
-입력코드가 정답일때(test case에 맞고 컴파일러 오류가 나지 않을 시) 질문 테스트 페이지로 넘어감 
+입력코드가 정답일때(test case에 맞고 컴파일러 오류가 나지 않을 시) 질문 테스트 페이지로 넘어감 </br>
 질문테스트에 답변을 하면, 문제풀이 과정이 끝나게 됨
 </br></br>
 
 - pass/fail 부여 (재학생 기능)
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/7d90a8c7-dc76-428c-9611-c23c1c3727e3"  width="840" height="400"/>
   
-신입생의 풀이 밑부분에 comment와 pass/fail을 결정하는 UI가 있음
+신입생의 풀이 밑부분에 comment와 pass/fail을 결정하는 UI가 있음</br>
 2명의 재학생이 신입생의 풀이에 comment를 완료할 시, 풀이 결과가 나오게 됨
 </br></br>
 
@@ -90,12 +90,12 @@ url : https://pes23.com/
 - 마이페이지(내가 푼 문제/내가 준 feedback)
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/4bdbff2b-0c34-473a-b4e7-5cf67850caa5"  width="260" height="220"/>
 
-우측상단의 Navbar 버튼을 통해 이동가능
+우측상단의 Navbar 버튼을 통해 이동가능</br>
 </br>
 <img src="https://github.com/PowerSupply-ES/.github/assets/107929413/812979df-0c8e-4d47-b26a-d8883ca71abd"  width="840" height="400"/>
 
-본인의 정보와 푼 문제, 남긴 feedback정보 열람 가능
-feedback이나 문제를 클릭하면 해당 페이지로 이동
+본인의 정보와 푼 문제, 남긴 feedback정보 열람 가능</br>
+feedback이나 문제를 클릭하면 해당 페이지로 이동</br>
 </br></br>
 
 
