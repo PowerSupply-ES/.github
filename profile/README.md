@@ -1,4 +1,4 @@
-# PES
+# PES (PowerSupply Education System)
 </br>
 pes 웹 url : https://pes23.com/
 </br></br></br>
